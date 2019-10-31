@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="PHP_AUTOMATION.php_travels.Test4">
+        <methods>
+          <include name="close"/>
+        </methods>
+      </class> <!-- PHP_AUTOMATION.php_travels.Test4 -->
+      <class name="PHP_AUTOMATION.php_travels.Test2">
+        <methods>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- PHP_AUTOMATION.php_travels.Test2 -->
+      <class name="PHP_AUTOMATION.php_travels.Test5">
+        <methods>
+          <include name="close"/>
+        </methods>
+      </class> <!-- PHP_AUTOMATION.php_travels.Test5 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

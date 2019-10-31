@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22736" started-at="2019-10-31T07:17:53Z" finished-at="2019-10-31T07:18:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22736" started-at="2019-10-31T07:17:53Z" finished-at="2019-10-31T07:18:15Z">
+      <class name="PHP_AUTOMATION.php_travels.Test5">
+        <test-method status="PASS" signature="Before()[pri:0, instance:PHP_AUTOMATION.php_travels.Test5@2f686d1f]" name="Before" duration-ms="22444" started-at="2019-10-31T12:47:53Z" finished-at="2019-10-31T12:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="close()[pri:0, instance:PHP_AUTOMATION.php_travels.Test5@2f686d1f]" name="close" is-config="true" duration-ms="256" started-at="2019-10-31T12:48:15Z" finished-at="2019-10-31T12:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- PHP_AUTOMATION.php_travels.Test5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
